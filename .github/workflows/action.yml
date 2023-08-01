@@ -7,7 +7,6 @@ on:
       - main
 
 jobs:
-  # Git npm run build 
   build:
     runs-on: ubuntu-latest
     steps:
